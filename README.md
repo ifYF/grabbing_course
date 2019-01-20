@@ -1,2 +1,5 @@
 # grabbing_course
-A software for Shanghai University students
+A cmd_software for Shanghai University students
+grab course with 16 processes
+Language: Chinese
+based on Python
